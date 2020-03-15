@@ -4,7 +4,7 @@
 npm start
 ```
 
-<img src="docs/assets/console.png">
+<img src="docs/assets/console.png" width="432">
 
 **RU:** Выполняет команду `git status -s` для всех смежных проектов.
 
