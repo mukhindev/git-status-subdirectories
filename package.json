@@ -1,0 +1,14 @@
+{
+  "name": "git-statuses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sergey Mukhin (@mukhindev)",
+  "license": "ISC",
+  "devDependencies": {
+    "colors": "^1.4.0"
+  }
+}
